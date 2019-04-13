@@ -4,7 +4,7 @@ import assignment_goergen_library as lib
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 
-# close all plots
+# close all plots.
 plt.close('all')
 
 # choose number of timesteps (previous data) and forecast (# steps forward)
